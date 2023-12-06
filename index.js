@@ -53,4 +53,3 @@ todoForm.addEventListener("submit", function (e) {
     renderTodos();
     todoForm.reset();
 });
-
